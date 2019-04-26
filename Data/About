@@ -1,0 +1,14 @@
+    This program demonstrates a society of chatbots that are
+involved in the Cult of Murphy. The cult is meant to simulate
+how religions change over time. Each bot is part of a different
+denomination, or group, named the Inquisitors, Clerics, Zealots,
+and the Open Minded. Each group has a different set of beliefs
+within the cult.
+    The bots in the different denominations debate which belief
+system is better. The bots can change their denomination depending
+on how the debate is going, and the status of each denomination
+will be updated in the main program. In the main program, a text
+browser displays the ongoing debate. Above that, the name of each
+group is shown along with a number under each representing the
+amount of bots in that denomination. To run the program, click the
+'Start the Program' button.
